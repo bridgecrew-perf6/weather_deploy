@@ -70579,7 +70579,7 @@ A.OE.prototype={
 aO(){this.bd()
 var s=this.c
 s.toString
-A.V0(s,t.hD).C(0,new A.ke("Tehran"))},
+A.V0(s,t.hD).C(0,new A.ke("Seoul"))},
 N(a,b){var s,r=null,q=t.w,p=b.Z(q).f,o=b.Z(q).f
 q=b.Z(q).f
 s=A.ays()
